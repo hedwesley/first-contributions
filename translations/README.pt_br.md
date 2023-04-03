@@ -5,7 +5,7 @@
 
 É difícil. Sempre é difícil fazer algo pela primeira vez. Especialmente quando se está colaborando, errar não é algo agradável. Mas *open source* (código aberto) se trata de colaboração e de trabalharmos juntos. Queremos simplificar a forma com que novos colaboradores *open source* aprendem e contribuem pela primeira vez.
 
-Ler artigos e ver tutoriais pode ajudar, mas nada melhor do que realmente "pôr a mão na massa" sem estragar nada. Este projeto visa simplificar a forma com que os novatos fazem a sua primeira contribuição. Lembre-se: quanto mais relaxado você estiver, melhor aprenderá. Se quiser fazer a sua primeira contribuição, siga os passos abaixo. Nós prometemos, será divertido.
+Ler artigos e ver tutoriais pode ajudar, mas nada melhor do que realmente "colocar a mão na massa" sem estragar nada. Este projeto visa simplificar a forma com que os novatos fazem a sua primeira contribuição. Lembre-se: quanto mais relaxado você estiver, melhor aprenderá. Se quiser fazer a sua primeira contribuição, siga os passos abaixo. Nós prometemos, será divertido.
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork de éste repositorio" />
 
@@ -98,7 +98,7 @@ Logo estarei mesclando as suas mudanças no Branch principal (master) deste proj
 
 Você tambem pode se juntar a nossa equipe no Slack caso precise de alguma ajuda ou tenha alguma dúvida. [Junte-se a nossa equipe no Slack](https://firstcontributions.herokuapp.com).
 
-Aqui estão alguns repositórios com Issues a nível de iniciante que você poderia resolver. Vá em frente e clique nos repositórios para saber mais.
+Aqui estão alguns repositórios com Issues a nível de iniciante que você pode resolver. Vá em frente e clique nos repositórios para saber mais.
 
 |[![exercism](https://avatars2.githubusercontent.com/u/5624255?v=3&s=100)](https://github.com/exercism/exercism.io/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+patch%22)|[![fun-retro](https://avatars3.githubusercontent.com/u/15913975?v=3&s=100)](https://github.com/funretro/distributed/issues?q=is%3Aopen+is%3Aissue+label%3Abeginner-friendly)|[<img width="100" src="https://cdn.worldvectorlogo.com/logos/react.svg">](https://github.com/facebook/react/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+bug%22)|[![habitat](https://avatars1.githubusercontent.com/u/18171698?v=3&s=100)](https://github.com/habitat-sh/habitat/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[![scikit-learn](https://avatars0.githubusercontent.com/u/365630?v=3&s=100)](https://github.com/scikit-learn/scikit-learn/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[<img width="100" src="https://camo.githubusercontent.com/0f302c808c8457f6460913e33aed3478124612c2/687474703a2f2f6c65696e696e67656e2e6f72672f696d672f6c65696e696e67656e2e6a7067">](https://github.com/technomancy/leiningen/issues?q=is%3Aopen+is%3Aissue+label%3ANewbie)|[<img width="100" src="https://images.plot.ly/plotly-documentation/thumbnail/numpy-logo.jpg">](https://github.com/numpy/numpy/issues?q=is%3Aopen+is%3Aissue+label%3A%22Easy+Fix%22)|[![elasticsearch](https://avatars2.githubusercontent.com/u/6764390?v=3&s=100)](https://github.com/elastic/elasticsearch/issues?q=is%3Aopen+is%3Aissue+label%3A%22low+hanging+fruit%22)|
 |---|---|---|---|---|---|---|---|
